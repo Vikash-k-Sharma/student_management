@@ -4,11 +4,22 @@ A full-stack Student Management System built with **Vue.js 3**, **FastAPI**, and
 
 ## Tech Stack
 
-### Frontendㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ### Backendㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ### Database
-- Vue.js 3ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ- Pythonㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ- MySQL
-- Viteㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ- FastAPIㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ- Database: `student_management_system`
-- Composition API (`<script setup>`)ㅤㅤㅤㅤㅤ- SQLAlchemyㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ- Table: `students`
-- Axiosㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ - PyMySQL
+### Frontend
+- Vue.js 3
+- Vite
+- Composition API (`<script setup>`)
+- Axios
+
+### Backend
+- Python
+- FastAPI
+- SQLAlchemy
+- PyMySQL
+
+### Database
+- MySQL
+- Database: `student_management_system`
+- Table: `students`
 
 ## Features
 
@@ -18,7 +29,7 @@ A full-stack Student Management System built with **Vue.js 3**, **FastAPI**, and
 - Update student information
 - Delete student records
 - Active / Inactive student status
-
+  
 ## Project Structure
 
 ```text
